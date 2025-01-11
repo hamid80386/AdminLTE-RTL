@@ -1,6 +1,6 @@
 {
-  "name": "almasaeed2010/adminlte",
-  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 4",
+  "name": "hamid80386/AdminLTE-RTL",
+  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 4 / main Author: Colorlib / Alma Saeedd",
   "homepage": "https://adminlte.io/",
   "keywords": [
     "css",
@@ -15,7 +15,7 @@
   ],
   "authors": [
     {
-      "name": "Colorlib"
+      "name": "Hamid Abbasi"
     }
   ],
   "license": "MIT",
