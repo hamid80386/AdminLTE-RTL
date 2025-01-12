@@ -1,7 +1,7 @@
 {
   "name": "admin-lte-rtl",
   "description": "Responsive open source admin dashboard and control panel.",
-  "version": "3.2.0",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Hamid Abbasi",
   "main": "dist/js/adminlte.min.js",
@@ -58,10 +58,10 @@
   "sass": "build/scss/adminlte.scss",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ColorlibHQ/AdminLTE.git"
+    "url": "git://github.com/hamid80386/AdminLTE-RTL.git"
   },
   "bugs": {
-    "url": "https://github.com/ColorlibHQ/AdminLTE/issues"
+    "url": "https://github.com/hamid80386/AdminLTE-RTL/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
