@@ -1,6 +1,6 @@
 {
   "name": "@hamid_80386/adminlte-rtl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "RTL version of AdminLTE v3 and v4",
   "main": "index.html",
   "directories": {
