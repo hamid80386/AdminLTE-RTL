@@ -655,13 +655,13 @@ blockquote {
   margin-right: 0.5rem;
 }
 
-.badge-group {
+.sidebar-menu .badge-group {
   position: absolute;
   left: 1rem;
   top: 5px;
 }
 
-.badge-group .badge {
+.sidebar-menu .badge-group .badge {
   position: relative;
 }
 
