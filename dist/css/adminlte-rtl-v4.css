@@ -650,4 +650,19 @@ blockquote {
     padding-right: 0.5rem;
 }
 
+.app-sidebar .brand-text {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+.badge-group {
+  position: absolute;
+  left: 1rem;
+  top: 5px;
+}
+
+.badge-group .badge {
+  position: relative;
+}
+
 /* End Admin LTE Version 4.x.x */
