@@ -1,0 +1,26 @@
+{
+  "name": "adminlte-rtl",
+  "version": "1.0.0",
+  "description": "RTL version of AdminLTE v3 and v4",
+  "main": "index.html",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamid80386/adminlte-rtl.git"
+  },
+  "keywords": [
+    "adminlte",
+    "adminlte-rtl"
+  ],
+  "author": "HAMID ABBASI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamid80386/adminlte-rtl/issues"
+  },
+  "homepage": "https://github.com/hamid80386/adminlte-rtl#readme"
+}
