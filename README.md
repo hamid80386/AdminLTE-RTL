@@ -5,6 +5,12 @@ There is some additional file to make original AdminLTE Package work as RTL.
 Run this command in terminal which has access to npm:
 
 ```
+npm install @hamid80386/adminlte-rtl --save
+```
+
+OR
+
+```
 npm install github:hamid80386/adminlte-rtl --save
 ```
 
